@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+building+AI-powered+software+that+ships." alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+software+that+ships." alt="typing" />
   <br/>
   <span style="color: #8b949e; font-size: 14px;">Full-Stack Developer · AI/ML · Systems · Product</span>
 </div>
