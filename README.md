@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1a1a2e,100:16213e&text=Muhammad%20Asjad%20Mughal&fontAlignY=35&fontSize=45&fontColor=fff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1a1a2e,100:16213e&text=Muhammad%20Asjad%20Mughal&fontAlignY=35&fontSize=45&fontColor=fff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Developer Banner" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </div>
 
 <br/>
@@ -71,7 +68,7 @@
           Hi, I'm <strong>Asjad</strong> — a Full Stack Developer with <strong>3+ years</strong> of experience building modern web and desktop applications.
         </p>
         <p>
-          I currently work at <strong>RTC League</strong> where I built <strong>Hintment</strong>, a real-time AI meeting assistant featuring live transcription, AI-generated responses, LLM integrations, and real-time collaboration.
+          I currently work at <strong>RTC League</strong> where I built a real-time AI meeting assistant featuring live transcription, AI-generated responses, LLM integrations, and real-time collaboration.
         </p>
         <p>
           Previously at <strong>Xroots</strong>, I developed complete production applications including e-commerce platforms, survey platforms, POS systems, and admin dashboards.
@@ -173,13 +170,8 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>Hintment</h3>
-        <p>Real-time AI meeting assistant with live transcription, LLM-powered responses, and collaborative tools.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai" alt="AI" />
-        </p>
+        <h3>AI Meeting Assistant</h3>
+        <p>Real-time AI meeting assistant with live transcription, AI-generated responses, LLM integrations, and real-time collaboration.</p>
       </td>
       <td width="50%" valign="top">
         <h3>Leafify</h3>
