@@ -1,14 +1,14 @@
 {
   "username": "Asjad611",
-  "generated_at": "2026-08-12T04:19:30.786562+00:00",
+  "generated_at": "2026-08-12T06:16:54.868432+00:00",
   "start_date": "2025-08-10",
   "end_date": "2026-08-15",
-  "total": 29,
-  "current_streak": 0,
-  "longest_streak": 5,
+  "total": 1,
+  "current_streak": 1,
+  "longest_streak": 1,
   "best_day": {
-    "date": "2026-07-31",
-    "count": 8
+    "date": "2026-08-12",
+    "count": 1
   },
   "monthly_totals": {
     "2025-08": 0,
@@ -22,8 +22,8 @@
     "2026-04": 0,
     "2026-05": 0,
     "2026-06": 0,
-    "2026-07": 19,
-    "2026-08": 10
+    "2026-07": 0,
+    "2026-08": 1
   },
   "days": [
     {
@@ -2853,40 +2853,40 @@
     {
       "date": "2026-07-29",
       "weekday": 3,
-      "count": 5,
-      "level": 2,
+      "count": 0,
+      "level": 0,
       "week": 50,
       "day": 3
     },
     {
       "date": "2026-07-30",
       "weekday": 4,
-      "count": 6,
-      "level": 3,
+      "count": 0,
+      "level": 0,
       "week": 50,
       "day": 4
     },
     {
       "date": "2026-07-31",
       "weekday": 5,
-      "count": 8,
-      "level": 3,
+      "count": 0,
+      "level": 0,
       "week": 50,
       "day": 5
     },
     {
       "date": "2026-08-01",
       "weekday": 6,
-      "count": 5,
-      "level": 2,
+      "count": 0,
+      "level": 0,
       "week": 50,
       "day": 6
     },
     {
       "date": "2026-08-02",
       "weekday": 0,
-      "count": 5,
-      "level": 2,
+      "count": 0,
+      "level": 0,
       "week": 51,
       "day": 0
     },
@@ -2965,8 +2965,8 @@
     {
       "date": "2026-08-12",
       "weekday": 3,
-      "count": 0,
-      "level": 0,
+      "count": 1,
+      "level": 1,
       "week": 52,
       "day": 3
     },

@@ -4,7 +4,7 @@
 <rect width="100%" height="100%" fill="transparent"/>
 <rect x="1" y="1" width="858" height="242" rx="18" class="panel"/>
 <text x="18" y="28" class="title">contribution graph</text>
-<text x="842" y="28" text-anchor="end" class="meta">29 contributions in the last year</text>
+<text x="842" y="28" text-anchor="end" class="meta">1 contributions in the last year</text>
 <g transform="translate(10,44)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.000s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="10,44" to="18,52" dur="0.4s" begin="0.000s" fill="freeze"/>
@@ -2479,36 +2479,36 @@
 <g transform="translate(760,89)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.280s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="760,89" to="768,97" dur="0.4s" begin="1.280s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#006d32">
-    <title>2026-07-29: 5 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
+    <title>2026-07-29: 0 contributions</title>
   </rect>
 </g>
 <g transform="translate(760,104)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.290s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="760,104" to="768,112" dur="0.4s" begin="1.290s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#26a641">
-    <title>2026-07-30: 6 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
+    <title>2026-07-30: 0 contributions</title>
   </rect>
 </g>
 <g transform="translate(760,119)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.300s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="760,119" to="768,127" dur="0.4s" begin="1.300s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#26a641">
-    <title>2026-07-31: 8 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
+    <title>2026-07-31: 0 contributions</title>
   </rect>
 </g>
 <g transform="translate(760,134)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.310s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="760,134" to="768,142" dur="0.4s" begin="1.310s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#006d32">
-    <title>2026-08-01: 5 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
+    <title>2026-08-01: 0 contributions</title>
   </rect>
 </g>
 <g transform="translate(775,44)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.275s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="775,44" to="783,52" dur="0.4s" begin="1.275s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#006d32">
-    <title>2026-08-02: 5 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
+    <title>2026-08-02: 0 contributions</title>
   </rect>
 </g>
 <g transform="translate(775,59)" opacity="0">
@@ -2577,8 +2577,8 @@
 <g transform="translate(790,89)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.330s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="790,89" to="798,97" dur="0.4s" begin="1.330s" fill="freeze"/>
-  <rect width="12" height="12" rx="3" class="day" fill="#161b22">
-    <title>2026-08-12: 0 contributions</title>
+  <rect width="12" height="12" rx="3" class="day" fill="#0e4429">
+    <title>2026-08-12: 1 contributions</title>
   </rect>
 </g>
 <g transform="translate(790,104)" opacity="0">
@@ -2610,6 +2610,6 @@
 <rect x="722" y="176" width="12" height="12" rx="3" fill="#39d353" stroke="#30363d" stroke-width=".6"/>
 <rect x="740" y="176" width="12" height="12" rx="3" fill="#69f0a0" stroke="#30363d" stroke-width=".6"/>
 <text x="754" y="186" class="meta">More</text>
-<text x="18" y="202" class="meta">0 day streak  longest 5  best 2026-07-31 (8)</text>
+<text x="18" y="202" class="meta">1 day streak  longest 1  best 2026-08-12 (1)</text>
 <text x="18" y="222" class="meta">Asjad611</text>
 </svg>
